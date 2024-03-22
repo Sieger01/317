@@ -5,12 +5,12 @@
   Time: 16:43
   To change this template use File | Settings | File Templates.
 --%>
-<%@ page contentType="text/html;charset=GB2312" language="java" %>
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>������</title>
+    <title>导航条</title>
   </head>
   <body>
-
+芜湖起飞
   </body>
 </html>
